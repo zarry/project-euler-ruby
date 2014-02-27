@@ -1,7 +1,7 @@
 project-euler-ruby
 ==================
 
-# My solutions to Project Euler in Ruby using TDD
+## My Solutions to Project Euler in Ruby using TDD
 
 I haven't done [Project Euler](http://projecteuler.net/) or TDD at any point in the past.  Both are new to me when starting this so I will see where it takes me.  This repo is just a place I am keeping track of my work on these problems. 
 
