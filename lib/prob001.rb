@@ -14,7 +14,7 @@ class Prob001
 
 	def self.sumOfMultiplesBelowX(x)
 		sum = 0
-		(1..x-1).each { |it|
+		(1...x).each { |it|
 			if Prob001.isXMultipleOfY(it,3) or Prob001.isXMultipleOfY(it,5)
 				sum += it
 			end
